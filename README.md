@@ -10,7 +10,7 @@ https://gitcdn.link/repo/Chief-Ent/style/master/style.css
 
 #### Include the standard Chief Stylesheet in the <head> with the following code:
 
-```
+```css
 <link rel="stylesheet" type="text/css" href="https://gitcdn.link/repo/Chief-Ent/style/master/style.css">
 ```
 Additionally, bootstrap is used.
