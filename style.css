@@ -1,0 +1,162 @@
+* {
+    font-family: arial;
+}
+
+#home table td {
+    text-align: center;
+}
+
+#view {
+    width: 100%;
+    height: 100%;
+}
+
+thead {
+    width: 100%;
+}
+
+#home div {
+    display: block;
+    margin: auto;
+}
+
+#home table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.selected {
+    border-radius: 5px;
+    opacity: 1;
+    font-weight: bold;
+}
+
+td:not(.selected) {
+    opacity: 0.25;
+}
+
+#buttontable {
+    width: 100%;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+#receivepurchaseitem {
+    width: 100%;
+    height: 100%;
+}
+
+.field {
+    display: block !important;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    font-size: 1.5rem !important;
+}
+
+#homemessage h5 {
+    display: inline;
+    margin-right: 10px;
+}
+
+#homemessage {
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+#view {
+    height: 95%;
+}
+
+#statustext {
+    margin-left: 30px;
+}
+
+#status {
+    position: fixed;
+    display: block;
+    left: 0;
+    bottom: 0;
+}
+
+#version {
+    position: fixed;
+    display: block;
+    right: 0;
+    bottom: 0;
+}
+
+#versiontext {
+    margin-right: 30px;
+}
+
+.btn-lg {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+.form-control {
+    margin-bottom: 15px;
+    font-size: 1rem !important;
+    padding: .375rem .75rem !important;
+}
+
+input.form-control {
+    height: 38px !important;
+}
+
+[title="homeScreenItemTypeCell"] {
+    width: 150px;
+}
+
+.headercell {
+    text-align: center;
+}
+
+.message {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.navbar1, .spacer {
+    height: 65px;
+}
+
+.spacer {
+    padding-bottom: 75px;
+}
+
+.navbar1 {
+    background-color: #444;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-bottom: 20px;
+    border-bottom: 10px solid #333;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.smallinfo {
+    color: #4bb543;
+    font-style: italic;
+}
+
+textarea {
+    min-height: 180px !important;
+}
