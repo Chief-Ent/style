@@ -2,13 +2,13 @@
 
 This is for Chief Custom HTML.
 
-#### Raw content link
+#### Raw link (embeddable)
 
 ```
 https://gitcdn.link/repo/Chief-Ent/style/master/style.css
 ```
 
-#### Include the standard Chief Stylesheet in the <head> with the following code:
+## Include the standard Chief Stylesheet in the <head> with the following code:
 
 ```css
 <link rel="stylesheet" type="text/css" href="https://gitcdn.link/repo/Chief-Ent/style/master/style.css">
